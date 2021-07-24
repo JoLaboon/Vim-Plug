@@ -1,2 +1,3 @@
-# Vim-Plug
-My Vim-Plug Default Setting
+# Plugins with Vim-Plug
+## Installing Neovim
+* 흐엉
